@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "_blur_": {
+        "enabled": true,
+        "value": 25
+    },
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s693758ae40c47e79587bde894cb790a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "GoogleWallet",
+        "lblName",
+        "lbl2"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "Flex0c4b259e8816c4eController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "Flex0c4b259e8816c4e",
+    "info": null,
+    "isTemplate": true,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "aa627bbd204543468967bf3d58cbfb5c",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segMerchant",
+    "pf": "segMerchant",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

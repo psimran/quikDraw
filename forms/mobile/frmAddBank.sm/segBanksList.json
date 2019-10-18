@@ -1,0 +1,203 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "citi.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Citi"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bank_of_america.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bank of America"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "hsbc.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "HSBC"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "deutsche_bank.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Deutsche Bank"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "jpmorgan_chase.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "JP Morgan Chase"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "mizuho_bank.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Mizuho Bank"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "royal_bank_of_scotland.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Royal Bank of Scotland"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "kasikorn_bank.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Kasikorn Bank"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "tmb.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "TMB"
+            }
+        },
+        {
+            "Image0b34086d23ac24b": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "standard_chartered.png"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Standard Chartered"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "72%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segBanksList",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eff65a165cb6443688403512c46a950b",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmAddBank",
+    "pf": "frmAddBank",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ca0136851229409a868843ba58f311d6",
+    "rowcounter": 9,
+    "rowfocusskin": "se60826d12c440c086eccc07e348d541",
+    "rowskin": "s4f62299787a4e9ba7c6c729c20f837f",
+    "rowtemplate": "CopyFlex0ce13b54aa40c45",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s795ddd9e8674905a9abb9ce8a172d85",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "d7d7d73c",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlex0ce13b54aa40c45": "CopyFlex0ce13b54aa40c45",
+        "Image0b34086d23ac24b": "Image0b34086d23ac24b",
+        "lblName": "lblName"
+    },
+    "zindex": 1
+}

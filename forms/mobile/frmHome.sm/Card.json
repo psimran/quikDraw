@@ -1,0 +1,154 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "190dp"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sae912ea21ef4039a3da8f4467835f1d",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "Card": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "a0d3bf1acc434089957df3df2ed5118f",
+                "srcKUID": "d4788fcc0213443b8c57d1b0d5f2f3d8",
+                "wType": "FlexContainer"
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": "50%"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "10%"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            }
+        },
+        "lblAmt": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cf9610cbeee241c1a853491aeef25b16",
+                "srcKUID": "a09781114173439099f1eb437959b9d6",
+                "wType": "Label"
+            }
+        },
+        "lblCCVisa": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "gecccb38bca847ba94597f294f52d065",
+                "srcKUID": "i0b53b181fef41cd9763d06630ebea65",
+                "wType": "Label"
+            }
+        },
+        "lblCardNumber": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f10808dcd71b465196b8dc40a7f31d40",
+                "srcKUID": "g196d5e1a2064aeb9f21f051d5257ac2",
+                "wType": "Label"
+            }
+        },
+        "lblExpDate": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a90b4567f4ae4bea9d5c9b56728d2307",
+                "srcKUID": "a028e832498946d78abca386afd71ce4",
+                "wType": "Label"
+            }
+        },
+        "lblPaypal": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "efeff36d1fd04da38b651105a7583161",
+                "srcKUID": "ca610ebbfe1b4d508ef8f0ca1bc1ea33",
+                "wType": "Label"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "Card",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "a0d3bf1acc434089957df3df2ed5118f",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlxScrCardHolder",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "d4788fcc0213443b8c57d1b0d5f2f3d8",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

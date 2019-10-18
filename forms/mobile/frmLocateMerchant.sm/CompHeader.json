@@ -1,0 +1,140 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {
+        "height": {
+            "type": "string",
+            "value": "56dp"
+        }
+    },
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sea1b32739f3489d806c42f35e7dadd3",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 100,
+    "dataDiffs": {
+        "CompHeader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "b9144aae31f54b3e85aebd6ad5152870",
+                "srcKUID": "c5e52c1f9ebd41cf8274590bb9a1cc17",
+                "wType": "FlexContainer"
+            }
+        },
+        "headerButtonLeft": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f96d176233aa4c50bb37de32b0b45b9b",
+                "srcKUID": "c7fbdbed985442c3add3849952288bd8",
+                "wType": "Button"
+            },
+            "text": " "
+        },
+        "headerButtonRight": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c184a6c294ad4065ba24dd43584f3e99",
+                "srcKUID": "e2e66c4d27844b049216442ddab66025",
+                "wType": "Button"
+            },
+            "isVisible": false
+        },
+        "headerIconLeft": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f7a8ffeb3cb34218a00531137dce683b",
+                "srcKUID": "f38ad405a55b4142821683c9e465c0b1",
+                "wType": "Label"
+            }
+        },
+        "headerIconRight": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d9eeaa159b0d4790b52d62a2d6b8c8c1",
+                "srcKUID": "bbb4f453b5d94d63ae2e8dd3078e7a95",
+                "wType": "Label"
+            },
+            "isVisible": false
+        },
+        "headerTitleLabel": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ae6fd0967c97466089eac6514c0961b5",
+                "srcKUID": "f3dda70f8b0d4857b116a883f70e2993",
+                "wType": "Label"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "CompHeader",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "b9144aae31f54b3e85aebd6ad5152870",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmLocateMerchant",
+    "pf": "frmLocateMerchant",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "c5e52c1f9ebd41cf8274590bb9a1cc17",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}
