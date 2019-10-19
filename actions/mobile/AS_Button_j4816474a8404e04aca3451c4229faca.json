@@ -1,0 +1,31 @@
+{
+    "AS_Button_j4816474a8404e04aca3451c4229faca": {
+        "id": "AS_Button_j4816474a8404e04aca3451c4229faca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c0d0573f23604924a1d989d5d2617677"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___fb5ef8b89db64384a487c545b5b4387c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSelectAmount",
+            "formKUID": "j19a806e0e0a463a908ffeef8d56fbb0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnWithdraw\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

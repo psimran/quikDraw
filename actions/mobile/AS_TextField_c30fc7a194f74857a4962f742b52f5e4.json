@@ -1,0 +1,33 @@
+{
+    "AS_TextField_c30fc7a194f74857a4962f742b52f5e4": {
+        "id": "AS_TextField_c30fc7a194f74857a4962f742b52f5e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAddAccount",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ie8fbe08703a4c3199f52d1358e9bae9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ifbbb19cc7a0403ab856847be1b244dc",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHome",
+            "formKUID": "c0d0573f23604924a1d989d5d2617677",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

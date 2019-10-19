@@ -1,0 +1,31 @@
+{
+    "AS_Button_c3b4b3daaee041f8a7e4919ee6269cae": {
+        "id": "AS_Button_c3b4b3daaee041f8a7e4919ee6269cae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmCreatePassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f3d2280c0db045e58608304c698abafe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_b49250a72d69425cb3dd12a4b9af3178",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSelectAmount",
+            "formKUID": "j19a806e0e0a463a908ffeef8d56fbb0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

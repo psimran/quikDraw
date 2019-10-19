@@ -43,12 +43,16 @@
     "_spawindowstablet_": {},
     "_spawinphone8_": {},
     "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "12%"
+    },
     "_vizProps_": {
         "hidewidgethierarchy": false
     },
     "_width_": {
         "type": "string",
-        "value": "80%"
+        "value": "84%"
     },
     "_windows10_": {},
     "_windows8_": {},
@@ -56,7 +60,7 @@
     "_winphone8_": {},
     "areflexpropsreferenced": false,
     "canUpdateUI": true,
-    "centery": {
+    "centerx": {
         "type": "string",
         "value": "50%"
     },
@@ -74,7 +78,7 @@
             "centerY": {
                 "Default": {
                     "type": "string",
-                    "value": "50%"
+                    "value": ""
                 }
             },
             "left": {
@@ -86,7 +90,7 @@
             "top": {
                 "Default": {
                     "type": "string",
-                    "value": ""
+                    "value": "12%"
                 }
             }
         },
@@ -142,7 +146,7 @@
     "layouttype": 2,
     "masterType": 0,
     "name": "kony.ui.UserWidgetInstance",
-    "parent": "FlxScrCardHolder",
+    "parent": "frmHome",
     "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

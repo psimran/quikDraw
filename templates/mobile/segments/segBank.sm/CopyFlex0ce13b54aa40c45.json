@@ -1,7 +1,7 @@
 {
     "DNDConfig": null,
     "_blur_": {
-        "enabled": true,
+        "enabled": false,
         "value": 25
     },
     "_height_": {

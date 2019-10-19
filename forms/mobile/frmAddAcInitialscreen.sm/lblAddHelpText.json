@@ -6,10 +6,6 @@
         "type": "string",
         "value": "190dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "10%"
-    },
     "_margin_": [
         1,
         1,
@@ -26,7 +22,7 @@
     "_text_": "Approved accounts from the banks are shown here",
     "_width_": {
         "type": "string",
-        "value": "80%"
+        "value": "60%"
     },
     "_wrapping_": 2,
     "android": {
@@ -36,6 +32,10 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "centery": {
         "type": "string",
         "value": "50%"

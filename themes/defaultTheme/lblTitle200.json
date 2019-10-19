@@ -1,13 +1,10 @@
 {
   "android": {
-    "font_color": "000000ff",
-    "font_name": "Montserrat SemiBold",
-    "font_size": 200,
-    "isForked": true
+    "font_name": "Montserrat SemiBold"
   },
   "androidwearos": {
-    "font_color": "000000ff",
-    "font_name": "Montserrat SemiBold",
+    "font_color": "003e75ff",
+    "font_name": "default",
     "font_size": 200,
     "isForked": true
   },
@@ -18,7 +15,7 @@
   "border_type": 0,
   "border_width": 0,
   "desktopweb": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "Helvetica",
     "font_size": 200,
     "isForked": true,
@@ -32,13 +29,13 @@
     }
   },
   "fontSizeInPx": false,
-  "font_color": "333333ff",
+  "font_color": "003e75ff",
   "font_name": "iphoneSystem",
   "font_size": 200,
   "font_style": "normal",
   "font_weight": "normal",
   "ipad": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "HelveticaNeue-Bold",
     "font_size": 200,
     "isForked": true,
@@ -52,43 +49,21 @@
     }
   },
   "iphone": {
-    "font_color": "000000ff",
-    "font_name": "Montserrat SemiBold",
-    "font_size": 200,
-    "isForked": true,
-    "shadow": {
-      "br": 0,
-      "color": "003e75",
-      "inner": false,
-      "nm": 0,
-      "x": 0,
-      "y": 0
-    }
+    "font_name": "Montserrat SemiBold"
   },
   "isDefaultSkin": false,
   "kiosk": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "None",
     "font_size": 200,
     "isForked": true
   },
   "kuid": "s72136f5ce95444cb15de1906e5498e3",
   "spaan": {
-    "font_color": "000000ff",
-    "font_name": "Helvetica",
-    "font_size": 200,
-    "isForked": true,
-    "shadow": {
-      "br": 0,
-      "color": "003e75",
-      "inner": false,
-      "nm": 0,
-      "x": 0,
-      "y": 0
-    }
+    "font_name": "Helvetica"
   },
   "spaandroidtablet": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "Helvetica",
     "font_size": 200,
     "isForked": true,
@@ -102,35 +77,13 @@
     }
   },
   "spabb": {
-    "font_color": "000000ff",
-    "font_name": "Helvetica",
-    "font_size": 200,
-    "isForked": true,
-    "shadow": {
-      "br": 0,
-      "color": "003e75",
-      "inner": false,
-      "nm": 0,
-      "x": 0,
-      "y": 0
-    }
+    "font_name": "Helvetica"
   },
   "spaip": {
-    "font_color": "000000ff",
-    "font_name": "Helvetica",
-    "font_size": 200,
-    "isForked": true,
-    "shadow": {
-      "br": 0,
-      "color": "003e75",
-      "inner": false,
-      "nm": 0,
-      "x": 0,
-      "y": 0
-    }
+    "font_name": "Helvetica"
   },
   "spaipad": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "Helvetica",
     "font_size": 200,
     "isForked": true,
@@ -144,7 +97,7 @@
     }
   },
   "spawindowstablet": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "Helvetica",
     "font_size": 200,
     "isForked": true,
@@ -158,42 +111,28 @@
     }
   },
   "spawinphone8": {
-    "font_color": "000000ff",
-    "font_name": "Helvetica",
-    "font_size": 200,
-    "isForked": true,
-    "shadow": {
-      "br": 0,
-      "color": "003e75",
-      "inner": false,
-      "nm": 0,
-      "x": 0,
-      "y": 0
-    }
+    "font_name": "Helvetica"
   },
   "tabrcandroid": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "Helvetica",
     "font_size": 200,
     "isForked": true
   },
   "wType": "Label",
   "watchos": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "Helvetica",
     "font_size": 200,
     "isForked": true
   },
   "windows8": {
-    "font_color": "000000ff",
+    "font_color": "003e75ff",
     "font_name": "None",
     "font_size": 200,
     "isForked": true
   },
   "winphone8": {
-    "font_color": "000000ff",
-    "font_name": "None",
-    "font_size": 200,
-    "isForked": true
+    "font_name": "None"
   }
 }

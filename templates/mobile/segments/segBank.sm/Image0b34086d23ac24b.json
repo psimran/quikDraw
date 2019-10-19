@@ -9,7 +9,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "16dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -25,13 +25,9 @@
     ],
     "_skin_": "sbeabd975384414784bee76f5d74f0ef",
     "_src_": "citi.png",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "36dp"
     },
     "canUpdateUI": true,
     "centery": {

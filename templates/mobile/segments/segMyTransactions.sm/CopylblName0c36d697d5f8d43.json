@@ -12,7 +12,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "64dp"
+        "value": "44dp"
     },
     "_margin_": [
         1,
@@ -28,7 +28,7 @@
     ],
     "_right_": {
         "type": "string",
-        "value": "100dp"
+        "value": "120dp"
     },
     "_skin_": "s7052e1fcb044536a816b4d0210acec6",
     "_text_": "01/10/2019",

@@ -2,6 +2,10 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "15%"
+    },
     "_height_": {
         "type": "ref",
         "value": "preferred"
@@ -24,10 +28,6 @@
     ],
     "_skin_": "se1b9c0346834046bcae364a21c00b50",
     "_text_": "By selecting the button below, I agree to the terms & conditions of quikDraw",
-    "_top_": {
-        "type": "string",
-        "value": "32%"
-    },
     "_width_": {
         "type": "string",
         "value": "80%"

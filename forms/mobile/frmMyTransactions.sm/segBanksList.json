@@ -191,7 +191,7 @@
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "5%"
+        "value": "16dp"
     },
     "_margin_": [
         0,
@@ -206,13 +206,17 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "16dp"
+    },
     "_top_": {
         "type": "string",
         "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "90%"
+        "value": "92%"
     },
     "autogrowmode": 0,
     "canUpdateUI": true,

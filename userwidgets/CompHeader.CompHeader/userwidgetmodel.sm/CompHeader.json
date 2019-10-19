@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "60dp"
+        "value": "100dp"
     },
     "_left_": {
         "type": "string",
@@ -26,7 +26,7 @@
     "_skin_": "sea1b32739f3489d806c42f35e7dadd3",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-45dp"
     },
     "_width_": {
         "type": "string",

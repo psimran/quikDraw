@@ -1,0 +1,31 @@
+{
+    "AS_Button_b0da6d8b8b00407099e8906748185db4": {
+        "id": "AS_Button_b0da6d8b8b00407099e8906748185db4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLocateMerchant",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f19d95f5a0ae4e4e8d77e21a3d9731f6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___h9cc07337d30440d907840a721cd96a9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHome",
+            "formKUID": "c0d0573f23604924a1d989d5d2617677",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"headerButtonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -3,12 +3,12 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "64dp"
+        "value": "48dp"
     },
     "_margin_": [
         1,
@@ -24,7 +24,7 @@
     ],
     "_right_": {
         "type": "string",
-        "value": "100dp"
+        "value": "116dp"
     },
     "_skin_": "s5a32b8f52544728a3a69c696b38fef0",
     "_text_": "Bank Name",

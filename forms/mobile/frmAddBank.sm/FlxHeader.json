@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sea1b32739f3489d806c42f35e7dadd3",
+    "_top_": {
+        "type": "string",
+        "value": "-45dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "android": null,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "headerTitleLabel",
+        "headerIconRight",
+        "headerButtonLeft",
+        "headerButtonRight"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlxHeader",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e4f8f0fae1e94a6a8c8af11e2e79ad03",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmAddBank",
+    "pf": "frmAddBank",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

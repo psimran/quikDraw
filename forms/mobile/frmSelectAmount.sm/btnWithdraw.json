@@ -2,9 +2,13 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5%"
+    },
     "_height_": {
         "type": "string",
-        "value": "8%"
+        "value": "56dp"
     },
     "_left_": {
         "type": "string",
@@ -23,11 +27,7 @@
         0
     ],
     "_skin_": "sada9da074104bb385b5cfd5291d841d",
-    "_text_": "quikdraw",
-    "_top_": {
-        "type": "string",
-        "value": "2%"
-    },
+    "_text_": "Locate Merchant",
     "_width_": {
         "type": "string",
         "value": "80%"
@@ -43,6 +43,7 @@
     "isvisible": true,
     "kuid": "hb55a481b5174f51b25b52cad9cd0ed7",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_e3d2a2f7bbac4cc3bdc9e19f8c45ce65",
     "parent": "flxSelectAmt",
     "pf": "frmSelectAmount",
     "retaincontentalignment": false,

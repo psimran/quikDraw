@@ -30,7 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "CompHeader",
+        "FlxHeader",
         "segBanksList"
     ],
     "containerweight": 100,

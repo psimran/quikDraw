@@ -1,0 +1,37 @@
+{
+    "AS_Segment_db2a171dbb0b40348e229c61993d3dfb": {
+        "id": "AS_Segment_db2a171dbb0b40348e229c61993d3dfb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmAddAcInitialscreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f8f1a14ed8bc472680387ff9b83fe5ba"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___j7f3d4517fc34decbff35174a53b8bfc",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHome",
+            "formKUID": "c0d0573f23604924a1d989d5d2617677",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onRowClick\",\n        \"widgetId\": \"segBanksList\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

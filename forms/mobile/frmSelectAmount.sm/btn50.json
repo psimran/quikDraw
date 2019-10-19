@@ -26,7 +26,7 @@
     "_text_": "$ 50",
     "_top_": {
         "type": "string",
-        "value": "4%"
+        "value": "36%"
     },
     "_width_": {
         "type": "string",
@@ -43,6 +43,7 @@
     "isvisible": true,
     "kuid": "bd40e126e0734c798b26589c3acde3a3",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_g9bd18f02abb4062a70bfec841ea5cde",
     "paddinginpixel": false,
     "parent": "flxSelectAmt",
     "pf": "frmSelectAmount",

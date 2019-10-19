@@ -30,7 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "CompHeader",
+        "FlxHeader",
         "lblInstructions",
         "txtFlsSearch",
         "segBanksList"
@@ -52,7 +52,7 @@
     "id": "frmAddBank",
     "info": null,
     "initdone": false,
-    "inputaccessoryviewtype": 4,
+    "inputaccessoryviewtype": 1,
     "ipad": {
         "needAppMenu": false,
         "psp": {
@@ -63,7 +63,7 @@
     "iphone": {
         "needAppMenu": false,
         "psp": {
-            "inputAccessoryViewType": 4,
+            "inputAccessoryViewType": 1,
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,

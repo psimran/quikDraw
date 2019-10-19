@@ -10,97 +10,97 @@
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Citi"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "bank_of_america.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Bank of America"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "hsbc.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "HSBC"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "deutsche_bank.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Deutsche Bank"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "jpmorgan_chase.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "JP Morgan Chase"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "mizuho_bank.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Mizuho Bank"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "royal_bank_of_scotland.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Royal Bank of Scotland"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "kasikorn_bank.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Kasikorn Bank"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "tmb.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "TMB"
+                "text": "Bank Name"
             }
         },
         {
             "Image0b34086d23ac24b": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "standard_chartered.png"
+                "src": "citi.png"
             },
             "lblName": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Standard Chartered"
+                "text": "Bank Name"
             }
         }
     ],
@@ -111,7 +111,7 @@
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "16dp"
     },
     "_margin_": [
         0,
@@ -126,13 +126,17 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "16dp"
+    },
     "_top_": {
         "type": "string",
         "value": "2%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "92%"
     },
     "autogrowmode": 0,
     "canUpdateUI": true,
@@ -160,6 +164,7 @@
     "masterdata": {},
     "name": "kony.ui.SegmentedUI2",
     "needpageindicator": true,
+    "onrowclick": "AS_Segment_db2a171dbb0b40348e229c61993d3dfb",
     "pageoffdotimage": "pageoffdot.png",
     "pageondotimage": "pageondot.png",
     "paginationconfig": {

@@ -4,15 +4,11 @@
     "__parentReadjusting__": false,
     "_bottom_": {
         "type": "string",
-        "value": "39%"
+        "value": "33%"
     },
     "_height_": {
         "type": "string",
-        "value": "8%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "10%"
+        "value": "56dp"
     },
     "_margin_": [
         6,
@@ -27,12 +23,16 @@
         0
     ],
     "_skin_": "sada9da074104bb385b5cfd5291d841d",
-    "_text_": "quikdraw",
+    "_text_": "quikDraw",
     "_width_": {
         "type": "string",
-        "value": "80%"
+        "value": "84%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
@@ -43,6 +43,7 @@
     "isvisible": true,
     "kuid": "a8e4310c73fa4eafbc9a8de4621cef0e",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_j4816474a8404e04aca3451c4229faca",
     "parent": "frmHome",
     "pf": "frmHome",
     "retaincontentalignment": false,

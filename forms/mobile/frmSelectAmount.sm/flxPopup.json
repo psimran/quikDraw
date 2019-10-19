@@ -48,7 +48,7 @@
     "id": "flxPopup",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "e79c4cee34754d5d8bbff90ce0834ce3",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
@@ -61,5 +61,5 @@
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 2
 }

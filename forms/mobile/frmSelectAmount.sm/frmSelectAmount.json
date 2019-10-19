@@ -30,9 +30,10 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxSelectAmt",
-        "flxPopup"
+        "flxPopup",
+        "flxSelectAmt"
     ],
+    "configureExtendTop": true,
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -61,6 +62,8 @@
     "iphone": {
         "needAppMenu": false,
         "psp": {
+            "configureExtendTop": true,
+            "configureStatusBarStyle": false,
             "inputAccessoryViewType": 4,
             "titleBarAttributes": {
                 "barStyle": 0,
@@ -99,7 +102,7 @@
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "iphone",
-    "prevDevice": "iPhoneXS",
+    "prevDevice": "Pixel3",
     "prevPlatform": "android",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

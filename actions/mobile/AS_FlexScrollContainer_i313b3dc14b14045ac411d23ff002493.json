@@ -18,7 +18,6 @@
             "type": "MOVE_ACTION",
             "itemType": "FORM",
             "itemId": "frmAddAcInitialscreen",
-            "widgetId": "CompHeader",
             "itemKUID": "f8f1a14ed8bc472680387ff9b83fe5ba",
             "widgetKUID": "f0f10645a50341b58a72ec548ca0c671",
             "wType": "UserWidgetInstance",
@@ -40,8 +39,7 @@
             "displayAnimationId": "MOVE_ACTION____e1b4a73eba374f1aab91e035593d4fc2",
             "forkedPlatform": "all",
             "parentId": null,
-            "callbackType": null,
-            "widgetPath": "this.view.CompHeader"
+            "callbackType": null
         }]
     }
 }

@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s8f2a5650c404528ad9d5ce068a7bc45",
+    "_text_": "Close",
+    "_width_": {
+        "type": "string",
+        "value": "76dp"
+    },
+    "android": {},
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0696c3010af4a22814c5ede15ab175c",
+    "id": "headerButtonRight",
+    "info": null,
+    "iphone": {
+        "bottom": "0dp",
+        "centerX": "",
+        "centerY": "",
+        "height": "55%",
+        "maxHeight": "",
+        "maxWidth": "",
+        "minHeight": "",
+        "minWidth": "",
+        "padding": [
+            0,
+            0,
+            4,
+            0
+        ],
+        "paddingInPixel": true,
+        "paddingLocked": false,
+        "top": "",
+        "zIndex": 1
+    },
+    "isvisible": false,
+    "kuid": "ada907d9b79b4895a773b22116652934",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "paddingLocked": false,
+    "paddinginpixel": false,
+    "parent": "FlxHeader",
+    "pf": "frmAddAccount",
+    "wType": "Button",
+    "zindex": 1
+}

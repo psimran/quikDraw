@@ -1,0 +1,31 @@
+{
+    "AS_Button_e3d2a2f7bbac4cc3bdc9e19f8c45ce65": {
+        "id": "AS_Button_e3d2a2f7bbac4cc3bdc9e19f8c45ce65",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectAmount",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j19a806e0e0a463a908ffeef8d56fbb0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___b5052640cdbe4c63b5705fe0c6638c0a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLocateMerchant",
+            "formKUID": "f19d95f5a0ae4e4e8d77e21a3d9731f6",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnWithdraw\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -6,10 +6,6 @@
         "type": "string",
         "value": "48dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "5%"
-    },
     "_margin_": [
         0,
         0,
@@ -23,7 +19,7 @@
         0
     ],
     "_placeholder_": "Placeholder",
-    "_skin_": "s1f4b70d357c432a8c7eb4380c750b78",
+    "_skin_": "s0ab5d0924774369bd8712f25f6d98b1",
     "_text_": "",
     "_top_": {
         "type": "string",
@@ -31,20 +27,29 @@
     },
     "_width_": {
         "type": "string",
-        "value": "90%"
+        "value": "84%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
     "autofilter": false,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerheight": "",
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 4,
-    "focusskin": "s190245e65ea4f29a7c655559f796fa1",
+    "focusskin": "s0ab5d0924774369bd8712f25f6d98b1",
     "id": "txtFlsSearch",
     "info": null,
+    "iphone": {
+        "psp": {
+            "pasteboardType": 1
+        }
+    },
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
@@ -52,8 +57,9 @@
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "parent": "frmAddBank",
+    "pasteboardtype": 1,
     "pf": "frmAddBank",
-    "placeholderskin": "s2afa82f313f4103a05bc29c45a5f2f0",
+    "placeholderskin": "sd41fc2eb098417aac1377922750affa",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

@@ -57,7 +57,6 @@
     "kuid": "dda6dcb37f51401fae3f107e5bb03215",
     "layouttype": 4,
     "name": "kony.ui.FlexScrollContainer",
-    "onscrolling": "AS_FlexScrollContainer_i313b3dc14b14045ac411d23ff002493",
     "pagingenabled": false,
     "parent": "frmAddAcInitialscreen",
     "pf": "frmAddAcInitialscreen",
