@@ -40,7 +40,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "FlexContainer0aa9faa85fe9b49"
+        "CopyFlexContainer0fe5d32abd6f049"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -49,11 +49,11 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": false,
-    "kuid": "e79c4cee34754d5d8bbff90ce0834ce3",
+    "kuid": "fdc75d3974ff4c048c228e1d5e8db058",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmSelectAmount",
-    "pf": "frmSelectAmount",
+    "parent": "frmHome",
+    "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

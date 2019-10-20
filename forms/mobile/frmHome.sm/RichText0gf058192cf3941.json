@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s485b8393f6e434c9bcfd2b6de87bdf6",
+    "_text_": "This feature allows you to withdraw a minimum of $ 50 and maximum of $ 100 in a single day’s transaction from any Authorized Merchants without using your Debit Card.\n \nYou are allowed to use this feature only 2 times in a day.<br><br>\n \nThe Bank might charge a nominal fee for using this facility. For more information on the charges, please connect with your Bank.<br><br>\n \nFor further enquiries please write to\n <a style=\\\"font-size: 15px; href=\\\"https://\">customercare@quikdraw.com<a>.",
+    "_top_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "RichText0gf058192cf3941",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eccba5cc11fa4226bfee8edef22f3f1b",
+    "linkskin": "s0882185b96440fba3b5a4fc991e9477",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainer0aa9faa85fe9b49",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

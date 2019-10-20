@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sada9da074104bb385b5cfd5291d841d",
+    "_text_": "Proceed",
+    "_top_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "88%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s5a8066fd41043f6ad2c031709ce323d",
+    "id": "CopybtnWithdraw0eb1fa3035ce449",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f317406aa13c4c18939d3e54f9517b88",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_c259d8bbcd2e49d883cb1c2f5af7fc45",
+    "parent": "FlexContainer0aa9faa85fe9b49",
+    "pf": "frmHome",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 2
+}

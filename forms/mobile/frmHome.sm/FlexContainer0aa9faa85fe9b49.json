@@ -1,17 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_blur_": {
-        "enabled": true,
-        "value": 25
-    },
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "96%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "4%"
     },
     "_margin_": [
         0,
@@ -27,33 +23,40 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s0742605e9394c37a519b2a814cbd401",
+    "_skin_": "s59789a4ad504c549bc82dada15e64db",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "2%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "92%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "FlexContainer0aa9faa85fe9b49"
+        "lblHeading",
+        "RichText0gf058192cf3941",
+        "CopybtnWithdraw0eb1fa3035ce449",
+        "FlexContainer0dd9f72932f0847"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxPopup",
+    "id": "FlexContainer0aa9faa85fe9b49",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": false,
-    "kuid": "e79c4cee34754d5d8bbff90ce0834ce3",
-    "layouttype": 2,
+    "isvisible": true,
+    "kuid": "b9d3af4677b5499c86592885aff37d96",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmSelectAmount",
-    "pf": "frmSelectAmount",
+    "parent": "flxquikDrawConditions",
+    "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
@@ -61,5 +64,5 @@
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 100
+    "zindex": 1
 }

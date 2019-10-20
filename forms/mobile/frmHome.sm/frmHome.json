@@ -36,7 +36,9 @@
         "btnMyTransactions",
         "btnSupport",
         "btnAdd",
-        "Card"
+        "Card",
+        "flxquikDrawConditions",
+        "flxPopup"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -49,7 +51,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "GalaxyS3",
+    "device": "iPhone7",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmHome",
@@ -103,13 +105,13 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "android",
-    "prevDevice": "iPhoneXS",
-    "prevPlatform": "iphone",
+    "platform": "iphone",
+    "prevDevice": "Pixel3",
+    "prevPlatform": "android",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_GalaxyS3",
+    "shellCSS": "iOS_iPhone7",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

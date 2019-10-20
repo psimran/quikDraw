@@ -1,10 +1,6 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_blur_": {
-        "enabled": true,
-        "value": 25
-    },
     "_height_": {
         "type": "string",
         "value": "100%"
@@ -27,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s0742605e9394c37a519b2a814cbd401",
+    "_skin_": "s6a9213686ec4d8ebe1592c5b698c82f",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -37,29 +33,39 @@
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
     "canUpdateUI": true,
     "children": [
         "FlexContainer0aa9faa85fe9b49"
     ],
     "clipbounds": true,
     "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
     "enablescrolling": true,
-    "id": "flxPopup",
+    "horizontalscrollindicator": true,
+    "id": "flxquikDrawConditions",
     "info": null,
     "iscustomlayout": false,
     "isvisible": false,
-    "kuid": "e79c4cee34754d5d8bbff90ce0834ce3",
+    "kuid": "db6cf410435340a0b56e9e7d8d2d1eb3",
     "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "frmSelectAmount",
-    "pf": "frmSelectAmount",
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "frmHome",
+    "pf": "frmHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
+    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "wType": "FlexContainer",
+    "track": false,
+    "verticalscrollindicator": true,
+    "vizProps": {},
+    "wType": "FlexScrollContainer",
     "widgetalignment": 1,
-    "zindex": 100
+    "zindex": 2
 }
