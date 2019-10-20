@@ -23,11 +23,11 @@
     "_src_": "image_4_digit_code.png",
     "_top_": {
         "type": "string",
-        "value": "10%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "76%"
+        "value": "95%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -38,7 +38,6 @@
     "context": {
         "channel": "mobile",
         "formID": "frmCreatePasswordHome",
-        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
@@ -50,7 +49,7 @@
     "isvisible": true,
     "kuid": "j610baf128ce43229b1b2ecdbfdcf90a",
     "name": "kony.ui.Image2",
-    "parent": "flxMain",
+    "parent": "flxpin",
     "pf": "frmCreatePasswordHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

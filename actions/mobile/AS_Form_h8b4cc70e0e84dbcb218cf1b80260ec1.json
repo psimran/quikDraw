@@ -1,0 +1,18 @@
+{
+    "AS_Form_h8b4cc70e0e84dbcb218cf1b80260ec1": {
+        "id": "AS_Form_h8b4cc70e0e84dbcb218cf1b80260ec1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSetTouchID",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fabfa0788da44ad9bbbcb7c7879e5ee7"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

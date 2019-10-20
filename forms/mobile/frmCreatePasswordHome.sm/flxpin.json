@@ -1,8 +1,6 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_base64_": null,
     "_height_": {
         "type": "string",
         "value": "183dp"
@@ -13,48 +11,51 @@
         0,
         0
     ],
+    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_skin_": "sbeabd975384414784bee76f5d74f0ef",
-    "_src_": "fingerprint.png",
+    "_percent_": true,
+    "_skin_": "s2efdb1b2e514b33ac2c552cd22cc31c",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "10%"
     },
     "_width_": {
         "type": "string",
-        "value": "95%"
+        "value": "76%"
     },
+    "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
         "value": "50%"
     },
+    "children": [
+        "Image0cf425eafb4a749"
+    ],
+    "clipbounds": true,
     "containerweight": 100,
-    "context": {
-        "channel": "mobile",
-        "formID": "frmCreatePasswordHome",
-        "templateType": "forms",
-        "topLevelBox": null
-    },
-    "id": "CopyImage0j1d403f4c4db47",
-    "imagescalemode": 1,
+    "enablescrolling": true,
+    "id": "flxpin",
     "info": null,
-    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i46aee48585f4e8091c005daf7e0c7b6",
-    "name": "kony.ui.Image2",
-    "parent": "flxtouch",
+    "kuid": "i05a7dae7add4cb786b8ce558e3bc5ae",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMain",
     "pf": "frmCreatePasswordHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "srcType": 1,
-    "wType": "Image",
-    "widgetalignment": 5,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
     "zindex": 1
 }

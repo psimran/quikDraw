@@ -1,0 +1,31 @@
+{
+    "AS_Button_idbf28c7cffd459aac66edfd57a677c3": {
+        "id": "AS_Button_idbf28c7cffd459aac66edfd57a677c3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRenterPassword",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i65518b17af5458ebce13d7b8d85b8c8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_e0cfc4b756394f9dba124b89591cfd3d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSelectAmount",
+            "formKUID": "j19a806e0e0a463a908ffeef8d56fbb0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnWithdraw\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

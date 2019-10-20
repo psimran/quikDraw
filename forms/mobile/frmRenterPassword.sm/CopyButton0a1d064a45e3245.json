@@ -2,17 +2,13 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "0dp"
-    },
     "_height_": {
         "type": "string",
-        "value": "55%"
+        "value": "68dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "10%"
     },
     "_margin_": [
         6,
@@ -21,31 +17,34 @@
         6
     ],
     "_padding_": [
-        2,
+        0,
         0,
         0,
         0
     ],
-    "_skin_": "s586628c57e74d4bb48ead43a602e6ca",
-    "_text_": "",
+    "_skin_": "s40bf40017cc4e28ada849654c5f9775",
+    "_text_": "7",
+    "_top_": {
+        "type": "string",
+        "value": "46%"
+    },
     "_width_": {
         "type": "string",
-        "value": "70dp"
+        "value": "68dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sf9d47cc01e24f13b49cafca17b15e1d",
-    "id": "headerButtonLeft",
+    "focusskin": "s2e4944b4e6d4f63b7485f0c1114c6ec",
+    "id": "CopyButton0a1d064a45e3245",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e56e8b18fb714091a0318c2da51fcbd5",
+    "kuid": "f13735ce921149898691070fb00f1aa6",
     "name": "kony.ui.Button",
-    "paddinginpixel": false,
-    "parent": "FlxHeader",
-    "pf": "frmCreatePassword",
+    "parent": "FlexContainer0i9b715dafdea4d",
+    "pf": "frmRenterPassword",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "wType": "Button",

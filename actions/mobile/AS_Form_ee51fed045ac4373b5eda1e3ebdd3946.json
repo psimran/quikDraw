@@ -1,0 +1,28 @@
+{
+    "AS_Form_ee51fed045ac4373b5eda1e3ebdd3946": {
+        "id": "AS_Form_ee51fed045ac4373b5eda1e3ebdd3946",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCreatePasswordHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f3d2280c0db045e58608304c698abafe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b22aa4c28ea747f0a25f385871ebf64d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preshow",
+            "display": "preshow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

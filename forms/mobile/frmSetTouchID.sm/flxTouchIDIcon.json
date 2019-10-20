@@ -3,11 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
+        "value": "140dp"
     },
     "_margin_": [
         0,
@@ -23,39 +19,43 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s59789a4ad504c549bc82dada15e64db",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
+    "_skin_": "s89baaa4295f4cc481bb4f2d48a21e34",
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "140dp"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "lblInstructions",
-        "flxpin",
-        "flxtouch"
+        "Image0c5b2d156b8104a"
     ],
-    "clipbounds": true,
+    "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxMain",
+    "id": "flxTouchIDIcon",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ha1ea693a8ee4b14a3c004fc69566551",
-    "layouttype": 4,
+    "kuid": "e6a64de0ded24e9da73395f40197bcf5",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmCreatePasswordHome",
-    "pf": "frmCreatePasswordHome",
+    "parent": "frmSetTouchID",
+    "pf": "frmSetTouchID",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 2
 }

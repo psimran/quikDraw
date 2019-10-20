@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "183dp"
+        "value": "80dp"
     },
     "_margin_": [
         0,
@@ -20,37 +20,38 @@
         0
     ],
     "_skin_": "sbeabd975384414784bee76f5d74f0ef",
-    "_src_": "fingerprint.png",
-    "_top_": {
-        "type": "string",
-        "value": "0%"
-    },
+    "_src_": "touch.jpg",
     "_width_": {
         "type": "string",
-        "value": "95%"
+        "value": "80dp"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
         "value": "50%"
     },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "frmCreatePasswordHome",
+        "formID": "frmSetTouchID",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "CopyImage0j1d403f4c4db47",
+    "id": "Image0c5b2d156b8104a",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i46aee48585f4e8091c005daf7e0c7b6",
+    "kuid": "e819b60ce461423c981b7d1b98bdef77",
     "name": "kony.ui.Image2",
-    "parent": "flxtouch",
-    "pf": "frmCreatePasswordHome",
+    "parent": "flxTouchIDIcon",
+    "pf": "frmSetTouchID",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

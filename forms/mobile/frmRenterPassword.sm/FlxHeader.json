@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "100dp"
     },
     "_left_": {
         "type": "string",
@@ -23,39 +23,43 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s59789a4ad504c549bc82dada15e64db",
+    "_skin_": "sea1b32739f3489d806c42f35e7dadd3",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "-45dp"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
     "allboxes": [],
+    "android": null,
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblInstructions",
-        "flxpin",
-        "flxtouch"
+        "headerTitleLabel",
+        "headerIconRight",
+        "headerButtonRight",
+        "headerButtonLeft"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxMain",
+    "id": "FlxHeader",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ha1ea693a8ee4b14a3c004fc69566551",
-    "layouttype": 4,
+    "kuid": "e9e0bb399634484f9ab6519d5495e08b",
+    "layouttype": 2,
+    "masterType": 1,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmCreatePasswordHome",
-    "pf": "frmCreatePasswordHome",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "parent": "frmRenterPassword",
+    "pf": "frmRenterPassword",
     "snapgridsize": 10,
     "snaptogrid": true,
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

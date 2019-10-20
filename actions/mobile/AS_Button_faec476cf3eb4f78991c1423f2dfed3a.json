@@ -1,0 +1,25 @@
+{
+    "AS_Button_faec476cf3eb4f78991c1423f2dfed3a": {
+        "id": "AS_Button_faec476cf3eb4f78991c1423f2dfed3a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_e32c791ef6a443d092d599cd32d4e17b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSelectAmount",
+            "formKUID": "j19a806e0e0a463a908ffeef8d56fbb0",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnWithdraw\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}
