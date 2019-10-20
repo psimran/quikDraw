@@ -50,7 +50,7 @@
     "isvisible": true,
     "kuid": "j610baf128ce43229b1b2ecdbfdcf90a",
     "name": "kony.ui.Image2",
-    "parent": "frmCreatePasswordHome",
+    "parent": "flxMain",
     "pf": "frmCreatePasswordHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -13,10 +13,6 @@
     "_ipad_": {},
     "_iphone_": {},
     "_kiosk_": {},
-    "_left_": {
-        "type": "string",
-        "value": "10%"
-    },
     "_margin_": [
         0,
         0,
@@ -52,7 +48,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "84%"
+        "value": "88%"
     },
     "_windows10_": {},
     "_windows8_": {},
@@ -84,13 +80,19 @@
             "left": {
                 "Default": {
                     "type": "string",
-                    "value": "10%"
+                    "value": ""
                 }
             },
             "top": {
                 "Default": {
                     "type": "string",
                     "value": "12%"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "88%"
                 }
             }
         },

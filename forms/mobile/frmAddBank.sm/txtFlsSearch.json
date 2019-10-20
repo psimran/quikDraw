@@ -18,7 +18,7 @@
         0,
         0
     ],
-    "_placeholder_": "Placeholder",
+    "_placeholder_": "Search",
     "_skin_": "s0ab5d0924774369bd8712f25f6d98b1",
     "_text_": "",
     "_top_": {
@@ -56,7 +56,7 @@
     "kuid": "fc0018fe280b47c6aa921f8731d91fd0",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "parent": "frmAddBank",
+    "parent": "flxMAin",
     "pasteboardtype": 1,
     "pf": "frmAddBank",
     "placeholderskin": "sd41fc2eb098417aac1377922750affa",

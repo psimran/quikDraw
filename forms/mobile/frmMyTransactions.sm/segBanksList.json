@@ -189,10 +189,6 @@
         "value": "90%"
     },
     "_indicator_": "none",
-    "_left_": {
-        "type": "string",
-        "value": "16dp"
-    },
     "_margin_": [
         0,
         0,
@@ -206,20 +202,20 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "16dp"
-    },
     "_top_": {
         "type": "string",
         "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "92%"
+        "value": "88%"
     },
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "counter": "09",
     "focusedindex": null,
@@ -249,7 +245,7 @@
     "paginationconfig": {
         "position": "bottom"
     },
-    "parent": "frmMyTransactions",
+    "parent": "flxMain",
     "pf": "frmMyTransactions",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

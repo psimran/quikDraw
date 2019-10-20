@@ -1,0 +1,31 @@
+{
+    "AS_Button_ab7421acf45040e4beba11f6b03f794c": {
+        "id": "AS_Button_ab7421acf45040e4beba11f6b03f794c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMerchantOverview",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d5f46570e3654e7d8131ba4fd74b2566"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__onClick_g27f89e19b9544469858b8bb9fa0077c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmHome",
+            "formKUID": "c0d0573f23604924a1d989d5d2617677",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"headerButtonLeft\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

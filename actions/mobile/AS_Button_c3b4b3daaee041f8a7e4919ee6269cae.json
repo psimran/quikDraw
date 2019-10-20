@@ -7,7 +7,7 @@
             "name": "eventobject"
         }],
         "contextObj": {
-            "name": "CopyfrmCreatePassword",
+            "name": "frmCreatePasswordHome",
             "type": "forms",
             "platform": null,
             "KUID": "f3d2280c0db045e58608304c698abafe"

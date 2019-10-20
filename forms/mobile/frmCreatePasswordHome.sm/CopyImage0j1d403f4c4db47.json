@@ -20,7 +20,7 @@
         0
     ],
     "_skin_": "sbeabd975384414784bee76f5d74f0ef",
-    "_src_": "image_4_digit_code.png",
+    "_src_": "fingerprint.png",
     "_top_": {
         "type": "string",
         "value": "2%"
@@ -50,7 +50,7 @@
     "isvisible": true,
     "kuid": "i46aee48585f4e8091c005daf7e0c7b6",
     "name": "kony.ui.Image2",
-    "parent": "frmCreatePasswordHome",
+    "parent": "flxMain",
     "pf": "frmCreatePasswordHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

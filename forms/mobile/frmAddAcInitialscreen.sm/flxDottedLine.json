@@ -5,10 +5,6 @@
         "type": "string",
         "value": "170dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "10%"
-    },
     "_margin_": [
         0,
         0,
@@ -26,11 +22,15 @@
     "_skin_": "s37b8460648043319a98595c81dfca91",
     "_width_": {
         "type": "string",
-        "value": "80%"
+        "value": "88%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "centery": {
         "type": "string",
         "value": "50%"

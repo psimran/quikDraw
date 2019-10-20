@@ -1,6 +1,6 @@
 {
-    "AS_Button_b46aeb43979345659f2b6151254052c8": {
-        "id": "AS_Button_b46aeb43979345659f2b6151254052c8",
+    "AS_Button_f776b3eba8354f93a16dae0ffec49408": {
+        "id": "AS_Button_f776b3eba8354f93a16dae0ffec49408",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -8,10 +8,10 @@
         }],
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM__onClick_ia3694274b31451bb9081421a6d29da3",
+            "id": "NAVIGATE_TO_FORM__onClick_j868d9472a4c4607a2a781d6f14b9afc",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "frmLocateMerchant",
-            "formKUID": "f19d95f5a0ae4e4e8d77e21a3d9731f6",
+            "formId": "frmSelectAmount",
+            "formKUID": "j19a806e0e0a463a908ffeef8d56fbb0",
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",

@@ -19,7 +19,7 @@
     "_padding_": [
         0,
         0,
-        4,
+        0,
         0
     ],
     "_right_": {
@@ -27,7 +27,7 @@
         "value": "0dp"
     },
     "_skin_": "s8f2a5650c404528ad9d5ce068a7bc45",
-    "_text_": "Close",
+    "_text_": " ",
     "_width_": {
         "type": "string",
         "value": "76dp"

@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sede891afef1473795d6256efa0e4a05",
+    "_skin_": "s20b8193170a4beaa5971877a3a81bec",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -40,9 +40,7 @@
     "children": [
         "lblTitle",
         "FlxScrCardHolder",
-        "lblInstructions",
-        "txtFlsSearch",
-        "segBanksList"
+        "flxMain"
     ],
     "clipbounds": true,
     "containerweight": 100,

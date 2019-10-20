@@ -11,7 +11,7 @@
   },
   "background_color": "00000000",
   "bg_type": "one",
-  "border_color": "000000ff",
+  "border_color": "35378dff",
   "border_radius": 100,
   "border_style": "custom",
   "border_type": 0,
@@ -22,7 +22,7 @@
     "isForked": false
   },
   "fontSizeInPx": false,
-  "font_color": "000000ff",
+  "font_color": "35378dff",
   "font_name": "iphoneSystem",
   "font_size": 100,
   "font_style": "normal",
