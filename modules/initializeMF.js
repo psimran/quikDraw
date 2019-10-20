@@ -9,10 +9,10 @@ isClientInitiated = false;
 // Environment connection key details start
 //DEV
 gblEnvironment = "INDUATBAR3";
-var appkey = "e4d9827cd207b6ce93f78d862325a328";
-var appSecret ="e2b4051a7fd205c846870d7896e9a0e8";
-var serviceUrl = "https://100020316.auth.konycloud.com/appconfig";
-var gblClientId = "w2fy7dck5qyc7rb4y28kzfnt";
+var appkey = "609e94c4fd18d3252e7d9d47d62df8e3";
+var appSecret ="c9651cd966dd67cf3a6d01f2a38b0a0b";
+var serviceUrl = "https://100023941.auth.konycloud.com/appconfig";
+//var gblClientId = "w2fy7dck5qyc7rb4y28kzfnt";
 
 //UAT
 /*gblEnvironment = "INDUATBAR3";
@@ -76,8 +76,8 @@ function commonServiceInvoker(serviceName, operationName, headers, inputParams, 
   try{
     kony.print("In commonServiceInvoker service");
     kony.print("initial serviceName is "+serviceName);
-    if(serviceName !== "ConfigServiceINDUATBAR3")
-    serviceName = serviceName+gblEnvironment;
+    //if(serviceName !== "ConfigServiceINDUATBAR3")
+    //serviceName = serviceName+gblEnvironment;
     kony.print("final serviceName is "+serviceName);
     kony.print("operationName is "+operationName);
     kony.print("headers is "+JSON.stringify(headers));
