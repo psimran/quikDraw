@@ -1,0 +1,31 @@
+{
+    "AS_Button_de45a83b02154420997cc231b003d3ec": {
+        "id": "AS_Button_de45a83b02154420997cc231b003d3ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmQRCode",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a1f7a9791dcb44e08e03989643cf6483"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___g93660c4c83a46b4907711e1a5383e0f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMerchantOverview",
+            "formKUID": "d5f46570e3654e7d8131ba4fd74b2566",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnWithdraw\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

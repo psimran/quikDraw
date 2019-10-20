@@ -58,7 +58,7 @@
     "isvisible": true,
     "kuid": "d94d98506b0e4c19af7bd62813a7731b",
     "name": "kony.ui.Label",
-    "parent": "frmCreatePasswordHome",
+    "parent": "flxMain",
     "pf": "frmCreatePasswordHome",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

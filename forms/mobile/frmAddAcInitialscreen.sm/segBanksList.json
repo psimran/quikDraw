@@ -109,10 +109,6 @@
         "value": "70%"
     },
     "_indicator_": "none",
-    "_left_": {
-        "type": "string",
-        "value": "16dp"
-    },
     "_margin_": [
         0,
         0,
@@ -136,10 +132,14 @@
     },
     "_width_": {
         "type": "string",
-        "value": "92%"
+        "value": "88%"
     },
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "counter": "09",
     "focusedindex": null,
@@ -170,14 +170,14 @@
     "paginationconfig": {
         "position": "bottom"
     },
-    "parent": "flxMainComp",
+    "parent": "flxMain",
     "pf": "frmAddAcInitialscreen",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainselection": false,
     "rowTemplateId": "ca0136851229409a868843ba58f311d6",
     "rowcounter": 9,
-    "rowfocusskin": "se60826d12c440c086eccc07e348d541",
+    "rowfocusskin": "sc29a8ad5c7b4a5699d535dda84832d3",
     "rowskin": "s4f62299787a4e9ba7c6c729c20f837f",
     "rowtemplate": "CopyFlex0ce13b54aa40c45",
     "screenlevelwidget": false,

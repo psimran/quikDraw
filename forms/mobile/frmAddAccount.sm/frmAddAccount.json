@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s93119dbed214561923d49eb139bf6a3",
+    "_skin_": "s5ea75eb6fc04424a8e6aac51c717706",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -31,17 +31,7 @@
     "canUpdateUI": true,
     "children": [
         "FlxHeader",
-        "lblInstructions",
-        "flxEnterOtp",
-        "flxSubHeading",
-        "CopylblInstructions0d97f26f9895448",
-        "CopyflxSubHeading0c20ad71e16084f",
-        "lblPhone1",
-        "lblPhone2",
-        "CopyflxSubHeading0decbf82781c545",
-        "lblTiming1",
-        "lblTiming2",
-        "lblTiming3"
+        "flxMAin"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -54,7 +44,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "Pixel3",
+    "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmAddAccount",
@@ -108,13 +98,13 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "android",
-    "prevDevice": "iPhoneXS",
-    "prevPlatform": "iphone",
+    "platform": "iphone",
+    "prevDevice": "Pixel3",
+    "prevPlatform": "android",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_Pixel3",
+    "shellCSS": "iOS_iPhoneXS",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

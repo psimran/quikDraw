@@ -58,7 +58,7 @@
     "isvisible": true,
     "kuid": "h191956261f74cea9d031eed23a3c633",
     "name": "kony.ui.Label",
-    "parent": "frmAddBank",
+    "parent": "flxMAin",
     "pf": "frmAddBank",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

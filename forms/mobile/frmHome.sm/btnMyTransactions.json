@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s5a8066fd41043f6ad2c031709ce323d",
+    "_skin_": "sada9da074104bb385b5cfd5291d841d",
     "_text_": "My Transactions",
     "_width_": {
         "type": "string",
-        "value": "84%"
+        "value": "88%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -36,7 +36,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "sada9da074104bb385b5cfd5291d841d",
+    "focusskin": "s5a8066fd41043f6ad2c031709ce323d",
     "id": "btnMyTransactions",
     "info": null,
     "iscustomlayout": false,

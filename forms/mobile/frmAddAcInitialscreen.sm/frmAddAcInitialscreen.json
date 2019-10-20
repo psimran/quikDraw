@@ -43,13 +43,13 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhoneXS",
+    "device": "GalaxyS3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmAddAcInitialscreen",
     "info": null,
     "initdone": false,
-    "inputaccessoryviewtype": 4,
+    "inputaccessoryviewtype": 1,
     "ipad": {
         "needAppMenu": false,
         "psp": {
@@ -60,7 +60,7 @@
     "iphone": {
         "needAppMenu": false,
         "psp": {
-            "inputAccessoryViewType": 4,
+            "inputAccessoryViewType": 1,
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
@@ -97,13 +97,13 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "iphone",
+    "platform": "android",
     "prevDevice": "Pixel3",
-    "prevPlatform": "android",
+    "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhoneXS",
+    "shellCSS": "and_GalaxyS3",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

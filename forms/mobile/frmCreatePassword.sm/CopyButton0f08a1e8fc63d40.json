@@ -47,7 +47,7 @@
     "isvisible": true,
     "kuid": "ia1bd44e69564c2180afbc2cfaeb8beb",
     "name": "kony.ui.Button",
-    "parent": "FlexContainer0i9b715dafdea4d",
+    "parent": "flxkeys",
     "pf": "frmCreatePassword",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

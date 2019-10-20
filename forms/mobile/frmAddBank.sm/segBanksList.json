@@ -165,7 +165,7 @@
     "paginationconfig": {
         "position": "bottom"
     },
-    "parent": "frmAddBank",
+    "parent": "flxMAin",
     "pf": "frmAddBank",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

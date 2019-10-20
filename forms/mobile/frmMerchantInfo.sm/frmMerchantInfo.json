@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s93119dbed214561923d49eb139bf6a3",
+    "_skin_": "s5ea75eb6fc04424a8e6aac51c717706",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -34,7 +34,8 @@
         "Image0bb0839a3d6514d",
         "lblIAgree",
         "btnWithdraw",
-        "FlexGroup0hbfe4cf56b3a43"
+        "FlexGroup0hbfe4cf56b3a43",
+        "flxbg"
     ],
     "containerweight": 100,
     "controllerInfo": {
